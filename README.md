@@ -25,6 +25,7 @@
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/hydroxcode/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/hydroxcode/leetcode/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/hydroxcode/leetcode/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/hydroxcode/leetcode/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
