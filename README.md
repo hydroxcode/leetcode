@@ -15,6 +15,7 @@
 | [0792-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0792-binary-search) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hydroxcode/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/hydroxcode/leetcode/tree/master/1929-concatenation-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hydroxcode/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/hydroxcode/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0233-number-of-digit-one](https://github.com/hydroxcode/leetcode/tree/master/0233-number-of-digit-one) |
+| [3875-construct-uniform-parity-array-i](https://github.com/hydroxcode/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
