@@ -88,4 +88,8 @@
 |  |
 | ------- |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hydroxcode/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/hydroxcode/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
