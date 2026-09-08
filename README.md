@@ -14,6 +14,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/hydroxcode/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/hydroxcode/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/hydroxcode/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hydroxcode/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hydroxcode/leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/hydroxcode/leetcode/tree/master/0179-largest-number) |
@@ -67,6 +68,7 @@
 | [0115-distinct-subsequences](https://github.com/hydroxcode/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/hydroxcode/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/hydroxcode/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/hydroxcode/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hydroxcode/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0233-number-of-digit-one](https://github.com/hydroxcode/leetcode/tree/master/0233-number-of-digit-one) |
 | [0940-distinct-subsequences-ii](https://github.com/hydroxcode/leetcode/tree/master/0940-distinct-subsequences-ii) |
