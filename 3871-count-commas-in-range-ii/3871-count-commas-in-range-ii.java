@@ -1,10 +1,26 @@
-class Solution {
+public class Solution {
     public long countCommas(long n) {
-        long count = 0;
+        if (n < 1000) return 0;
 
-        for (long p = 1000; p <= n; p *= 1000)
-            count += n - p + 1;
+        long num = 0;
 
-        return count;
+        if (n >= 1000) {
+            num += n - 1000 + 1;
+        }
+        if (n >= 1_000_000) {
+            num += n - 1_000_000 + 1;
+        }
+        if (n >= 1_000_000_000L) {
+            num += n - 1_000_000_000L + 1;
+        }
+        if (n >= 1_000_000_000_000L) {
+            num += n - 1_000_000_000_000L + 1;
+        }
+        if (n >= 1_000_000_000_000_000L) {
+            num += n - 1_000_000_000_000_000L + 1;
+        }
+
+        return num;
     }
+
 }
