@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hydroxcode/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hydroxcode/leetcode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/hydroxcode/leetcode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
 | [0792-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0792-binary-search) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hydroxcode/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/hydroxcode/leetcode/tree/master/1929-concatenation-of-array) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/hydroxcode/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
 | [0233-number-of-digit-one](https://github.com/hydroxcode/leetcode/tree/master/0233-number-of-digit-one) |
 | [3870-count-commas-in-range](https://github.com/hydroxcode/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/hydroxcode/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -129,4 +131,24 @@
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
