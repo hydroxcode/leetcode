@@ -39,6 +39,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hydroxcode/leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/hydroxcode/leetcode/tree/master/0344-reverse-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hydroxcode/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0344-reverse-string](https://github.com/hydroxcode/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/hydroxcode/leetcode/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/hydroxcode/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hydroxcode/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hydroxcode/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
@@ -84,6 +86,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hydroxcode/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0233-number-of-digit-one](https://github.com/hydroxcode/leetcode/tree/master/0233-number-of-digit-one) |
 | [0940-distinct-subsequences-ii](https://github.com/hydroxcode/leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hydroxcode/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -112,6 +115,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hydroxcode/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/hydroxcode/leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/hydroxcode/leetcode/tree/master/0409-longest-palindrome) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hydroxcode/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hydroxcode/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
