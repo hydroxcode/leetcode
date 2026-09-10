@@ -123,6 +123,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hydroxcode/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hydroxcode/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -159,4 +161,8 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/hydroxcode/leetcode/tree/master/0223-rectangle-area) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hydroxcode/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
