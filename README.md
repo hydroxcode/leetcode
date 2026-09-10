@@ -65,6 +65,7 @@
 | [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/hydroxcode/leetcode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/hydroxcode/leetcode/tree/master/0233-number-of-digit-one) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hydroxcode/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/hydroxcode/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/hydroxcode/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hydroxcode/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -143,6 +144,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/hydroxcode/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
