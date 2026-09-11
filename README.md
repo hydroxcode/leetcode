@@ -70,6 +70,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hydroxcode/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/hydroxcode/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/hydroxcode/leetcode/tree/master/0223-rectangle-area) |
@@ -85,6 +86,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hydroxcode/leetcode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/hydroxcode/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/hydroxcode/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/hydroxcode/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -231,6 +233,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/hydroxcode/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/hydroxcode/leetcode/tree/master/0509-fibonacci-number) |
 ## DP on Trees
 |  |
