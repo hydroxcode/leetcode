@@ -25,6 +25,7 @@
 | [0213-house-robber-ii](https://github.com/hydroxcode/leetcode/tree/master/0213-house-robber-ii) |
 | [0792-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0792-binary-search) |
 | [1140-stone-game-ii](https://github.com/hydroxcode/leetcode/tree/master/1140-stone-game-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hydroxcode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hydroxcode/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/hydroxcode/leetcode/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hydroxcode/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/hydroxcode/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/hydroxcode/leetcode/tree/master/0136-single-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hydroxcode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hydroxcode/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/hydroxcode/leetcode/tree/master/0179-largest-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hydroxcode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hydroxcode/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Greedy
 |  |
@@ -250,4 +253,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hydroxcode/leetcode/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hydroxcode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
