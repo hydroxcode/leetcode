@@ -85,6 +85,7 @@
 | [0509-fibonacci-number](https://github.com/hydroxcode/leetcode/tree/master/0509-fibonacci-number) |
 | [1140-stone-game-ii](https://github.com/hydroxcode/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
+| [2769-find-the-maximum-achievable-number](https://github.com/hydroxcode/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hydroxcode/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hydroxcode/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3870-count-commas-in-range](https://github.com/hydroxcode/leetcode/tree/master/3870-count-commas-in-range) |
