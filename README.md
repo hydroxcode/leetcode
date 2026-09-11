@@ -169,6 +169,7 @@
 | [0337-house-robber-iii](https://github.com/hydroxcode/leetcode/tree/master/0337-house-robber-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hydroxcode/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hydroxcode/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -179,6 +180,7 @@
 | [0337-house-robber-iii](https://github.com/hydroxcode/leetcode/tree/master/0337-house-robber-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hydroxcode/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hydroxcode/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/hydroxcode/leetcode/tree/master/0337-house-robber-iii) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hydroxcode/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hydroxcode/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Minimax
