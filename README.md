@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hydroxcode/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/hydroxcode/leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hydroxcode/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0792-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0792-binary-search) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hydroxcode/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hydroxcode/leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/hydroxcode/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/hydroxcode/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/hydroxcode/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
@@ -289,4 +291,8 @@
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hydroxcode/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/hydroxcode/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
