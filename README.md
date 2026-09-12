@@ -38,6 +38,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/hydroxcode/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/hydroxcode/leetcode/tree/master/0136-single-number) |
+| [0868-binary-gap](https://github.com/hydroxcode/leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hydroxcode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Backtracking
 |  |
