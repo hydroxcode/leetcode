@@ -25,6 +25,7 @@
 | [0198-house-robber](https://github.com/hydroxcode/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/hydroxcode/leetcode/tree/master/0213-house-robber-ii) |
+| [0704-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0792-binary-search) |
 | [1140-stone-game-ii](https://github.com/hydroxcode/leetcode/tree/master/1140-stone-game-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hydroxcode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -80,6 +81,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hydroxcode/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/hydroxcode/leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hydroxcode/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0792-binary-search) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hydroxcode/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
