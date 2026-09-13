@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hydroxcode/leetcode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/hydroxcode/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/hydroxcode/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/hydroxcode/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/hydroxcode/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -133,6 +134,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hydroxcode/leetcode/tree/master/0050-powx-n) |
 | [0233-number-of-digit-one](https://github.com/hydroxcode/leetcode/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/hydroxcode/leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
