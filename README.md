@@ -50,6 +50,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hydroxcode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hydroxcode/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hydroxcode/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hydroxcode/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hydroxcode/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hydroxcode/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/hydroxcode/leetcode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
@@ -117,6 +119,7 @@
 | [0836-rectangle-overlap](https://github.com/hydroxcode/leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/hydroxcode/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hydroxcode/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2769-find-the-maximum-achievable-number](https://github.com/hydroxcode/leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/hydroxcode/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hydroxcode/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
