@@ -84,6 +84,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/hydroxcode/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hydroxcode/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hydroxcode/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hydroxcode/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hydroxcode/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hydroxcode/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3606-coupon-code-validator](https://github.com/hydroxcode/leetcode/tree/master/3606-coupon-code-validator) |
@@ -190,6 +191,7 @@
 | [0179-largest-number](https://github.com/hydroxcode/leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/hydroxcode/leetcode/tree/master/0409-longest-palindrome) |
 | [1382-balance-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hydroxcode/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hydroxcode/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hydroxcode/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
