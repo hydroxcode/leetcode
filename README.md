@@ -32,6 +32,7 @@
 | [0835-image-overlap](https://github.com/hydroxcode/leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/hydroxcode/leetcode/tree/master/1140-stone-game-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hydroxcode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hydroxcode/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hydroxcode/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/hydroxcode/leetcode/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hydroxcode/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -191,6 +192,7 @@
 | [0179-largest-number](https://github.com/hydroxcode/leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/hydroxcode/leetcode/tree/master/0409-longest-palindrome) |
 | [1382-balance-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hydroxcode/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hydroxcode/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hydroxcode/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hydroxcode/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -198,6 +200,7 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/hydroxcode/leetcode/tree/master/0835-image-overlap) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hydroxcode/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hydroxcode/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Database
 |  |
