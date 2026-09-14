@@ -68,6 +68,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/hydroxcode/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/hydroxcode/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hydroxcode/leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/hydroxcode/leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/hydroxcode/leetcode/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/hydroxcode/leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -319,4 +320,12 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/hydroxcode/leetcode/tree/master/0061-rotate-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
