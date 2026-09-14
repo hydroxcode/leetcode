@@ -70,6 +70,7 @@
 | [0013-roman-to-integer](https://github.com/hydroxcode/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/hydroxcode/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/hydroxcode/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/hydroxcode/leetcode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/hydroxcode/leetcode/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/hydroxcode/leetcode/tree/master/0168-excel-sheet-column-title) |
