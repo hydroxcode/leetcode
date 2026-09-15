@@ -83,6 +83,7 @@
 | [0168-excel-sheet-column-title](https://github.com/hydroxcode/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/hydroxcode/leetcode/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/hydroxcode/leetcode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/hydroxcode/leetcode/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/hydroxcode/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/hydroxcode/leetcode/tree/master/0409-longest-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/hydroxcode/leetcode/tree/master/0940-distinct-subsequences-ii) |
@@ -124,6 +125,7 @@
 | [0168-excel-sheet-column-title](https://github.com/hydroxcode/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/hydroxcode/leetcode/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/hydroxcode/leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/hydroxcode/leetcode/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/hydroxcode/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/hydroxcode/leetcode/tree/master/0509-fibonacci-number) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/hydroxcode/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/hydroxcode/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/hydroxcode/leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/hydroxcode/leetcode/tree/master/0233-number-of-digit-one) |
 | [0342-power-of-four](https://github.com/hydroxcode/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/hydroxcode/leetcode/tree/master/0509-fibonacci-number) |
@@ -359,6 +362,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/hydroxcode/leetcode/tree/master/0224-basic-calculator) |
 ## Bracket Sequences
 |  |
 | ------- |
