@@ -232,6 +232,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/hydroxcode/leetcode/tree/master/0337-house-robber-iii) |
@@ -243,6 +244,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/hydroxcode/leetcode/tree/master/0337-house-robber-iii) |
@@ -288,6 +290,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0337-house-robber-iii](https://github.com/hydroxcode/leetcode/tree/master/0337-house-robber-iii) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/hydroxcode/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -362,6 +365,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/hydroxcode/leetcode/tree/master/0224-basic-calculator) |
 ## Bracket Sequences
 |  |
