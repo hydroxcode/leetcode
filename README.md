@@ -48,6 +48,7 @@
 | [0078-subsets](https://github.com/hydroxcode/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/hydroxcode/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/hydroxcode/leetcode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/hydroxcode/leetcode/tree/master/0342-power-of-four) |
 | [0868-binary-gap](https://github.com/hydroxcode/leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hydroxcode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/hydroxcode/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -119,6 +120,7 @@
 | [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/hydroxcode/leetcode/tree/master/0223-rectangle-area) |
 | [0233-number-of-digit-one](https://github.com/hydroxcode/leetcode/tree/master/0233-number-of-digit-one) |
+| [0342-power-of-four](https://github.com/hydroxcode/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/hydroxcode/leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/hydroxcode/leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/hydroxcode/leetcode/tree/master/1140-stone-game-ii) |
@@ -158,6 +160,7 @@
 | [0050-powx-n](https://github.com/hydroxcode/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/hydroxcode/leetcode/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/hydroxcode/leetcode/tree/master/0233-number-of-digit-one) |
+| [0342-power-of-four](https://github.com/hydroxcode/leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/hydroxcode/leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
