@@ -27,6 +27,7 @@
 | [0198-house-robber](https://github.com/hydroxcode/leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/hydroxcode/leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/hydroxcode/leetcode/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/hydroxcode/leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0792-binary-search) |
 | [0835-image-overlap](https://github.com/hydroxcode/leetcode/tree/master/0835-image-overlap) |
@@ -167,6 +168,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/hydroxcode/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/hydroxcode/leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/hydroxcode/leetcode/tree/master/0409-longest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hydroxcode/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hydroxcode/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -182,6 +184,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hydroxcode/leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/hydroxcode/leetcode/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/hydroxcode/leetcode/tree/master/0217-contains-duplicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hydroxcode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hydroxcode/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hydroxcode/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
