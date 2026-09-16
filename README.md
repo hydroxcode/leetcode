@@ -106,6 +106,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hydroxcode/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/hydroxcode/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/hydroxcode/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hydroxcode/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/hydroxcode/leetcode/tree/master/1980-find-unique-binary-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hydroxcode/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hydroxcode/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -177,6 +178,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/hydroxcode/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/hydroxcode/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hydroxcode/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hydroxcode/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hydroxcode/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hydroxcode/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -211,6 +213,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hydroxcode/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hydroxcode/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hydroxcode/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
 |  |
