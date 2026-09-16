@@ -174,6 +174,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/hydroxcode/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/hydroxcode/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hydroxcode/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hydroxcode/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hydroxcode/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
@@ -324,6 +325,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/hydroxcode/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/hydroxcode/leetcode/tree/master/1140-stone-game-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hydroxcode/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hydroxcode/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Game Theory
 |  |
 | ------- |
