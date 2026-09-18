@@ -78,6 +78,7 @@
 | [0061-rotate-list](https://github.com/hydroxcode/leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hydroxcode/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/hydroxcode/leetcode/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/hydroxcode/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/hydroxcode/leetcode/tree/master/0165-compare-version-numbers) |
 | [0344-reverse-string](https://github.com/hydroxcode/leetcode/tree/master/0344-reverse-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hydroxcode/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -200,6 +201,7 @@
 | [0013-roman-to-integer](https://github.com/hydroxcode/leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/hydroxcode/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0142-linked-list-cycle-ii](https://github.com/hydroxcode/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/hydroxcode/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/hydroxcode/leetcode/tree/master/0217-contains-duplicate) |
 | [0409-longest-palindrome](https://github.com/hydroxcode/leetcode/tree/master/0409-longest-palindrome) |
@@ -347,7 +349,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
-## Sprague–Grundy Theorem
+## SpragueâGrundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
@@ -388,6 +390,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/hydroxcode/leetcode/tree/master/0061-rotate-list) |
+| [0142-linked-list-cycle-ii](https://github.com/hydroxcode/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/hydroxcode/leetcode/tree/master/0206-reverse-linked-list) |
 ## Stack
 |  |
@@ -404,4 +407,8 @@
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hydroxcode/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/hydroxcode/leetcode/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
