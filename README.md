@@ -153,6 +153,7 @@
 | [0509-fibonacci-number](https://github.com/hydroxcode/leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/hydroxcode/leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/hydroxcode/leetcode/tree/master/1140-stone-game-ii) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/hydroxcode/leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/hydroxcode/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hydroxcode/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -322,6 +323,7 @@
 | ------- |
 | [0223-rectangle-area](https://github.com/hydroxcode/leetcode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/hydroxcode/leetcode/tree/master/0836-rectangle-overlap) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/hydroxcode/leetcode/tree/master/1501-circle-and-rectangle-overlapping) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -356,7 +358,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
-## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
@@ -419,7 +421,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/hydroxcode/leetcode/tree/master/0142-linked-list-cycle-ii) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hydroxcode/leetcode/tree/master/0169-majority-element) |
