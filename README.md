@@ -47,6 +47,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hydroxcode/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hydroxcode/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3606-coupon-code-validator](https://github.com/hydroxcode/leetcode/tree/master/3606-coupon-code-validator) |
+| [3831-find-x-value-of-array-i](https://github.com/hydroxcode/leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hydroxcode/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hydroxcode/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Bit Manipulation
@@ -161,6 +162,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/hydroxcode/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hydroxcode/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hydroxcode/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3831-find-x-value-of-array-i](https://github.com/hydroxcode/leetcode/tree/master/3831-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/hydroxcode/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/hydroxcode/leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hydroxcode/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -187,6 +189,7 @@
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hydroxcode/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hydroxcode/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hydroxcode/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3831-find-x-value-of-array-i](https://github.com/hydroxcode/leetcode/tree/master/3831-find-x-value-of-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -358,7 +361,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
-## SpragueÃÂÃÂ¢ÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
@@ -421,7 +424,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/hydroxcode/leetcode/tree/master/0142-linked-list-cycle-ii) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hydroxcode/leetcode/tree/master/0169-majority-element) |
