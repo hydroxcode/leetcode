@@ -361,7 +361,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
@@ -424,7 +424,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/hydroxcode/leetcode/tree/master/0142-linked-list-cycle-ii) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hydroxcode/leetcode/tree/master/0169-majority-element) |
