@@ -36,6 +36,7 @@
 | [0704-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0792-binary-search) |
 | [0835-image-overlap](https://github.com/hydroxcode/leetcode/tree/master/0835-image-overlap) |
+| [0890-lemonade-change](https://github.com/hydroxcode/leetcode/tree/master/0890-lemonade-change) |
 | [1140-stone-game-ii](https://github.com/hydroxcode/leetcode/tree/master/1140-stone-game-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hydroxcode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hydroxcode/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -244,6 +245,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/hydroxcode/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/hydroxcode/leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/hydroxcode/leetcode/tree/master/0409-longest-palindrome) |
+| [0890-lemonade-change](https://github.com/hydroxcode/leetcode/tree/master/0890-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/hydroxcode/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hydroxcode/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/hydroxcode/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -361,7 +363,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
@@ -424,7 +426,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/hydroxcode/leetcode/tree/master/0142-linked-list-cycle-ii) |
-## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hydroxcode/leetcode/tree/master/0169-majority-element) |
