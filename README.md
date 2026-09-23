@@ -40,6 +40,7 @@
 | [1140-stone-game-ii](https://github.com/hydroxcode/leetcode/tree/master/1140-stone-game-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/hydroxcode/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/hydroxcode/leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/hydroxcode/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hydroxcode/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/hydroxcode/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/hydroxcode/leetcode/tree/master/1929-concatenation-of-array) |
@@ -126,6 +127,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hydroxcode/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/hydroxcode/leetcode/tree/master/0792-binary-search) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/hydroxcode/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hydroxcode/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
@@ -219,6 +221,7 @@
 | [0409-longest-palindrome](https://github.com/hydroxcode/leetcode/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/hydroxcode/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/hydroxcode/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/hydroxcode/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1980-find-unique-binary-string](https://github.com/hydroxcode/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hydroxcode/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hydroxcode/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -227,6 +230,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hydroxcode/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/hydroxcode/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/hydroxcode/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hydroxcode/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
@@ -349,6 +353,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hydroxcode/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/hydroxcode/leetcode/tree/master/1140-stone-game-ii) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/hydroxcode/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/hydroxcode/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/hydroxcode/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Game Theory
@@ -365,7 +370,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/hydroxcode/leetcode/tree/master/1510-stone-game-iv) |
@@ -428,7 +433,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/hydroxcode/leetcode/tree/master/0142-linked-list-cycle-ii) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hydroxcode/leetcode/tree/master/0169-majority-element) |
