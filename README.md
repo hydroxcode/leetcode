@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hydroxcode/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +63,12 @@
 | [0678-valid-parenthesis-string](https://github.com/hydroxcode/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hydroxcode/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hydroxcode/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hydroxcode/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hydroxcode/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
