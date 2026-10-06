@@ -8,6 +8,7 @@
 | [0032-longest-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0678-valid-parenthesis-string](https://github.com/hydroxcode/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/hydroxcode/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hydroxcode/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Stack
 |  |
@@ -16,6 +17,7 @@
 | [0032-longest-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/hydroxcode/leetcode/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/hydroxcode/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/hydroxcode/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hydroxcode/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
@@ -23,6 +25,7 @@
 | [0020-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/hydroxcode/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/hydroxcode/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hydroxcode/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Design
 |  |
@@ -53,4 +56,5 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/hydroxcode/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/hydroxcode/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
