@@ -13,6 +13,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hydroxcode/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/hydroxcode/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hydroxcode/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hydroxcode/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hydroxcode/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
@@ -24,6 +25,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hydroxcode/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/hydroxcode/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hydroxcode/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hydroxcode/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hydroxcode/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Bracket Sequences
 |  |
@@ -34,6 +36,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hydroxcode/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/hydroxcode/leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hydroxcode/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hydroxcode/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hydroxcode/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Design
 |  |
@@ -68,6 +71,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/hydroxcode/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hydroxcode/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hydroxcode/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hydroxcode/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sliding Window
 |  |
