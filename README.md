@@ -53,6 +53,7 @@
 | [0219-contains-duplicate-ii](https://github.com/hydroxcode/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hydroxcode/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/hydroxcode/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/hydroxcode/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/hydroxcode/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hydroxcode/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hydroxcode/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/hydroxcode/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -93,4 +96,12 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/hydroxcode/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/hydroxcode/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
