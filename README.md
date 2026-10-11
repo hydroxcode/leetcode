@@ -54,6 +54,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hydroxcode/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/hydroxcode/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/hydroxcode/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +105,8 @@
 |  |
 | ------- |
 | [2418-minimum-sum-of-squared-difference](https://github.com/hydroxcode/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/hydroxcode/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
