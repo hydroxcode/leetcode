@@ -55,12 +55,14 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hydroxcode/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/hydroxcode/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/hydroxcode/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hydroxcode/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hydroxcode/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/hydroxcode/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hydroxcode/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hydroxcode/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hydroxcode/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/hydroxcode/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hydroxcode/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sliding Window
 |  |
 | ------- |
@@ -109,4 +112,8 @@
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/hydroxcode/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hydroxcode/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
