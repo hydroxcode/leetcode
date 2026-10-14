@@ -50,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/hydroxcode/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/hydroxcode/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hydroxcode/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -66,6 +67,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/hydroxcode/leetcode/tree/master/0189-rotate-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hydroxcode/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hydroxcode/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/hydroxcode/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
