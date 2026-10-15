@@ -57,6 +57,7 @@
 | [2418-minimum-sum-of-squared-difference](https://github.com/hydroxcode/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/hydroxcode/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hydroxcode/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/hydroxcode/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0219-contains-duplicate-ii](https://github.com/hydroxcode/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hydroxcode/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/hydroxcode/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +124,12 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/hydroxcode/leetcode/tree/master/0189-rotate-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/hydroxcode/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/hydroxcode/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
