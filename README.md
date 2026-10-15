@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/hydroxcode/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/hydroxcode/leetcode/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0678-valid-parenthesis-string](https://github.com/hydroxcode/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -69,6 +70,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/hydroxcode/leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/hydroxcode/leetcode/tree/master/0189-rotate-array) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hydroxcode/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
