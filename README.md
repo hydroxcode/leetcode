@@ -8,6 +8,7 @@
 | [0020-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/hydroxcode/leetcode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/hydroxcode/leetcode/tree/master/0139-word-break) |
 | [0301-remove-invalid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0678-valid-parenthesis-string](https://github.com/hydroxcode/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -47,10 +48,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0139-word-break](https://github.com/hydroxcode/leetcode/tree/master/0139-word-break) |
 | [0678-valid-parenthesis-string](https://github.com/hydroxcode/leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/hydroxcode/leetcode/tree/master/0139-word-break) |
 | [0189-rotate-array](https://github.com/hydroxcode/leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/hydroxcode/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -64,6 +67,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hydroxcode/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/hydroxcode/leetcode/tree/master/0139-word-break) |
 | [0219-contains-duplicate-ii](https://github.com/hydroxcode/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hydroxcode/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -137,4 +141,16 @@
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/hydroxcode/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hydroxcode/leetcode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hydroxcode/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/hydroxcode/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
