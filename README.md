@@ -59,6 +59,7 @@
 | [2844-sum-of-squares-of-special-elements](https://github.com/hydroxcode/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hydroxcode/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/hydroxcode/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/hydroxcode/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hydroxcode/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/hydroxcode/leetcode/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/hydroxcode/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@
 | ------- |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/hydroxcode/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
+| [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/hydroxcode/leetcode/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
 | ------- |
