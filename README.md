@@ -17,6 +17,7 @@
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hydroxcode/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hydroxcode/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hydroxcode/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3811-reverse-degree-of-a-string](https://github.com/hydroxcode/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hydroxcode/leetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
+## Simulation
+|  |
+| ------- |
+| [3811-reverse-degree-of-a-string](https://github.com/hydroxcode/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
