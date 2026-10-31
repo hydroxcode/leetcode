@@ -40,6 +40,7 @@
 | [1208-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/hydroxcode/leetcode/tree/master/1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hydroxcode/leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/hydroxcode/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hydroxcode/leetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## Design
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0032-longest-valid-parentheses](https://github.com/hydroxcode/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0139-word-break](https://github.com/hydroxcode/leetcode/tree/master/0139-word-break) |
 | [0678-valid-parenthesis-string](https://github.com/hydroxcode/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hydroxcode/leetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 ## Array
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0219-contains-duplicate-ii](https://github.com/hydroxcode/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/hydroxcode/leetcode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/hydroxcode/leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hydroxcode/leetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/hydroxcode/leetcode/tree/master/2418-minimum-sum-of-squared-difference) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/hydroxcode/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3153-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/hydroxcode/leetcode/tree/master/3153-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -153,4 +156,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/hydroxcode/leetcode/tree/master/0139-word-break) |
+## Matrix
+|  |
+| ------- |
+| [2349-check-if-there-is-a-valid-parentheses-string-path](https://github.com/hydroxcode/leetcode/tree/master/2349-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
